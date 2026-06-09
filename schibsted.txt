@@ -2,3 +2,4 @@
 ! Description: Popups fix
 ||cdn.privacy-mgmt.com^
 ||privacy-mgmt.com^
+||cmp.vg.no^
