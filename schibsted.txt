@@ -3,3 +3,12 @@
 ||cdn.privacy-mgmt.com^
 ||privacy-mgmt.com^
 ||cmp.vg.no^
+||cmp.tek.no^
+||cmp.finn.no^
+||cmp.e24.no^
+||cmp.aftenposten.no^
+||cmp.bt.no^
+||cmp.aftenbladet.no^
+||cmp.godt.no^
+||cmp.minmote.no^
+||cmp.vektklubb.no^
