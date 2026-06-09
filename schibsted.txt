@@ -1,0 +1,4 @@
+! Title: Schibsted Fix
+! Description: Popups fix
+||cdn.privacy-mgmt.com^
+||privacy-mgmt.com^
