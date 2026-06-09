@@ -12,3 +12,4 @@
 ||cmp.godt.no^
 ||cmp.minmote.no^
 ||cmp.vektklubb.no^
+||sp.api.no^
